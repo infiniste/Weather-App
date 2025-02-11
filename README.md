@@ -28,15 +28,6 @@
 1️⃣ **도시 이름을 입력하세요** (예: "서울", "New York")  
 2️⃣ **"검색" 버튼을 클릭**하세요  
 3️⃣ **현재 날씨 정보**가 화면에 표시됩니다!  
-
 🔹 배경 색상은 **날씨 상태(맑음, 비, 눈 등)에 따라 자동으로 변경**됩니다.  
 
 ---
-
-## 📌 API 키 설정 방법
-이 프로젝트를 직접 실행하려면 OpenWeather에서 **API 키를 발급받아야 합니다.**
-
-1. [OpenWeather API 가입](https://home.openweathermap.org/api_keys) 후 **무료 API 키 발급**  
-2. `script.js` 파일에서 `"YOUR_OPENWEATHER_API_KEY"` 부분을 **발급받은 API 키로 변경**  
-```js
-const apiKey = "여기에_발급받은_API_키를_입력하세요";
