@@ -14,7 +14,7 @@
 ---
 
 📍 배포 링크 (GitHub Pages)
- [👉 날씨 앱 사용하기**](https://your-username.github.io/weather-app/)  
+ [👉 날씨 앱 사용하기**](https://infiniste.github.io/Weather-App/)  
 해당 링크를 클릭하면 웹에서 바로 실행할 수 있습니다! 
 
 ---
